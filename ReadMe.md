@@ -4,5 +4,6 @@
 *  [Angular2](/Angular2/ReadMe.md)
 *  [ES6](/ES6/ReadMe.md)
 *  [MarkDown](/MarkDown/ReadMe.md)
+	*  [More Syntax](/MarkDown/Syntax/ReadMe.md)
 *  [Python](/Python/ReadMe.md)
 *  [TypeScript](/Type-Script/ReadMe.md)
