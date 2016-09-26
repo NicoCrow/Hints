@@ -1,8 +1,8 @@
 # Syntax hints for different languages / frameworks. #
 <!-- --------------------------------------------- -->
 
-*  [Angular2](/NicoCrow/Hints/tree/master/Angular2)
-*  [ES6](/NicoCrow/Hints/tree/master/ES6)
-*  [MarkDown](/NicoCrow/Hints/tree/master/MarkDown)
-*  [Python](/NicoCrow/Hints/tree/master/Python)
-*  [TypeScript](/NicoCrow/Hints/tree/master/Type-Script/)
+*  [Angular2](/Angular2/ReadMe.md)
+*  [ES6](/ES6/ReadMe.md)
+*  [MarkDown](/MarkDown/ReadMe.md)
+*  [Python](/Python/ReadMe.md)
+*  [TypeScript](/Type-Script/ReadMe.md)
